@@ -11,7 +11,7 @@ session_start();
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>AUCTIONMANIA</title>
+    <title>AUCTIONMANI A</title>
     <meta charset="utf-8">
 	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Your description">
